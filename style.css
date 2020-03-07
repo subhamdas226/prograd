@@ -1,0 +1,177 @@
+body{
+    
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica,Arial, sans-serif;
+}
+nav{
+    text-decoration: none;
+}
+.bod{
+    background-color:#ddf121;
+    height: 800px;
+}
+.container {
+    display: flex;
+   
+}
+#topbar{
+    position: fixed;
+    padding-top: 6px;
+	background-color:#FFFFFF;
+	width: 100%;
+	margin:0 auto;
+    line-height:46px;
+   
+    text-decoration: none solid rgba(0,0,0.87);
+    word-spacing: 0px;
+}
+#logo{
+    text-decoration: none solid rgb(30,112,191);
+    margin-top: 7px;
+    height: 25px;
+    margin-left: 250px;
+    float: left;
+    padding-right:20px; 
+}
+.ads{
+	position:relative;
+	top:middle;
+    padding-right:20px; 
+    color: #262626;
+}
+.spec{
+    position:relative;
+	top:middle;
+    padding-right:20px; 
+    color: #262626;
+}
+.fil{
+    position:relative;
+	top:middle;
+    padding-right:20px; 
+    color: #262626;
+}
+.down{
+    position:relative;
+	top:middle;
+    padding-right:20px; 
+    color: #262626;
+}
+.store{
+    position:relative;
+	top:middle;
+    padding-right:20px; 
+    color: #262626;
+}
+.story{
+    position:relative;
+	top:middle;
+    padding-right:20px; 
+    color: #262626;
+}
+.map{
+    position:relative;
+	top:middle;
+    padding-right:20px; 
+    color: #262626;
+}
+.len{
+    position:relative;
+	top:middle;
+    padding-right:20px; 
+    color: #262626;
+}
+.kit{
+    position:relative;
+	top:middle;
+    padding-right:20px; 
+    color: #262626;
+}
+.code{
+    position:relative;
+	top:middle;
+    padding-right:20px; 
+    color: #262626;
+}
+.rfrd{
+    height: 100px;
+    text-align: center;
+    padding-top: 80px;
+    
+}
+.frnd{
+    display: inline-flex;
+    text-align: center;
+    padding-top: 50px;
+    margin-left: 60px;
+    
+}
+.square_btn{
+    
+    padding-top: 14px;
+    width: 180px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 45%;
+    text-align: center;
+	border-radius: 25px;
+    text-decoration: none;
+    color: #000000;
+    background-color: blanchedalmond;
+}
+.gp{
+    position: absolute;
+    padding-top: 25px;
+    margin-left: 70%;
+}
+.cl{
+    margin-top: 20px;
+    padding-left: 30px;
+    display: flex;
+    margin-right: 20%;
+    margin-left: 20%;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.45;
+    color: #333;
+    
+}
+.f1{
+        padding-right: 70px;
+        text-decoration: none;
+        padding-bottom: 10px;
+}
+.f2{
+    padding-right: 70px;
+    text-decoration: none;
+}
+.f3{
+    padding-right: 70px;
+    text-decoration: none;
+}
+.f4{
+    padding-right: 70px;
+    text-decoration: none;
+}
+.site-footer
+{
+  display: flex;
+  background-color:#26272b;
+  padding-top:10px;
+  padding-left: 10px;
+  padding-right: 50px;
+  font-size:15px;
+  color:#737373;
+}
+.ro{
+   
+    display: inline-flex;
+    margin-left: 20px;
+    padding-right: 50px;
+}
+
+
+  
+
+
