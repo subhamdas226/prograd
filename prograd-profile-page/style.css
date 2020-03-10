@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Nunito sans',sans-serif;
+}
+nav{
+    background-color:white;
+    height: 60px;
+    width: 100%;
+}
+nav a{
+    color: rgb(226,65,42);
+}
+.logo{
+    
+    font-size: 30px;
+    line-height: 60px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin:0 5px;
+}
+nav ul li a{
+    color: black;
+    font-size: 17px;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+.active{
+    background:  rgb(226,65,42);
+    color: cornsilk;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+}
+.eat{
+    background-color:black;
+    height: 300px;
+    width: 100%;
+    color: cornsilk;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.resume{
+    width: 100%;
+    height: 400px;
+    display:inline-flex;
+}
+.resume .round{
+    width: 85%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.circle{
+    border-radius: 50%;
+    width: 40%;
+    height: 200px;
+}
+.resume label{
+    font-size: xx-large;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.content{
+    padding-top: 40px;    
+}
+.content p{
+    padding-top: 10px;
+}
+.resu{
+    background:  rgb(226,65,42);
+    color: cornsilk;
+    font-size: 17px;
+    padding: 11px 15px;
+    border-radius: 3px;
+}
+.portfolio{
+    background-color: black;
+    height: 500px;
+    color: blanchedalmond;
+    padding-top: 50px;
+}
+.portfolio label{
+    font-size: 25px;
+    font-weight: 700;  
+}
+.portfolio p{
+    margin-top: 20px;
+}
+.pro{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.projects{
+    display: flex;
+    justify-content: space-evenly;
+}
+.blog{
+    width: 300px;
+    height: 250px;
+    background-color: blanchedalmond;
+    border-radius: 6px;
+}
+.projects .cir{
+    margin-top: 5px;
+    display: flex;
+    color: blanchedalmond;
+    font-weight: bold;
+    font-size: 30px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color:rgb(226,65,42);
+}
+.cir p{
+   margin-left: 4px; 
+}
+.tac{
+    width: 300px;
+    height: 250px;
+    background-color: blanchedalmond;
+    border-radius: 6px;
+}
+.gen{
+    width: 300px;
+    height: 250px;
+    background-color: blanchedalmond;
+    border-radius: 6px;
+}
+.skills{
+    height: 570px;
+    padding-top: 50px;
+    
+}
+.la{
+    display: flex;
+    font-size: 25px;
+    font-weight: 700;
+    justify-content: center;
+    margin-bottom: 60px;
+    
+}
+.gress{
+    margin-left: 130px;
+    height: 400px;
+    width: 1300px;
+    background-color: seashell;
+    display: flex;
+    justify-content: space-evenly;
+}
+.gress p{
+    font-weight: bold;
+}
+.tech{
+    width: 400px;
+    height: 340px;
+}
+
+.lang{
+    width: 400px;
+    height: 300px;
+}
+.contact{
+    background-color: black;
+}
+.co{
+    color: blanchedalmond;
+    font-weight: 550;
+}
+form{
+	width: 30%;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+form input,form textarea{
+	display: block;
+	margin-bottom: 40px;
+	width:100%;
+	padding-left: 20px;
+}
+form input{
+	height: 40px;
+}
+.col{
+    background-color: rgb(226,65,42);
+    border-radius: 3px;
+    color: blanchedalmond;
+    font-weight: 500px;
+}
