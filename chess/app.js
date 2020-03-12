@@ -88,9 +88,17 @@ var inp_dir = prompt("Enter the Direction N, S, E, W, NE, NW, SE and SW ");
     
         }
     }
+function boundarycheck(pos){
+    let pos = { 
+                x: 0,
+                y: 0  
+               };
+    
+}
 // Checkpoint 3 | Moving the queen
 function moveForward(){
 }
+
 
 // Checkpoint 4 | Jump move the queen
 
